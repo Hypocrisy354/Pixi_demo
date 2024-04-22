@@ -10,9 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 游戏介绍
 ```
-npm run build
+恐龙跑酷小游戏
 ```
 
 ### 游戏操作
