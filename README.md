@@ -1,4 +1,4 @@
-# 01-pixiapp
+# pixi_demo
 
 ## Project setup
 ```
@@ -15,5 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 游戏操作
+```
+按下空格键跳跃躲避仙人掌
+```
